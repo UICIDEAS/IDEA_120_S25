@@ -6,22 +6,22 @@
 
 #### Contents
 * [Introduction and About the Schedule](#introduction-and-about-the-schedule)
-* Week 1: [January 9, 2024](#week-1)
-* Week 2: [January 16, 2024](#week-2)
-* Week 3: [January 23, 2024](#week-3)
-* Week 4: [January 30, 2024](#week-4)
-* Week 5: [February 6, 2024](#week-5)
-* Week 6: [February 13, 2024](#week-6)
-* Week 7: [February 20, 2024](#week-7)
-* Week 8: [February 27, 2024](#week-8)
-* Week 9: [March 5, 2024](#week-9)
-* Week 10: [March 12, 2024](#week-10)
+* Week 1: [January 14, 2025](#week-1)
+* Week 2: [January 21, 2025](#week-2)
+* Week 3: [January 28, 2025](#week-3)
+* Week 4: [February 4, 2025](#week-4)
+* Week 5: [February 11, 2025](#week-5)
+* Week 6: [February 18, 2025](#week-6)
+* Week 7: [February 25, 2025](#week-7)
+* Week 8: [March 4, 2025](#week-8)
+* Week 9: [March 11, 2025](#week-9)
+* Week 10: [March 18, 2025](#week-10)
 * Week 11: [SPRING BREAK - no class](#week-11)
-* Week 12: [March 26, 2024](#week-12)
-* Week 13: [April 2, 2024](#week-13)
-* Week 14: [April 9, 2024](#week-14)
-* Week 15: [April 16, 2024](#week-15)
-* Week 16: [April 23, 2024](#week-16)
+* Week 12: [April 1, 2025](#week-12)
+* Week 13: [April 8, 2025](#week-13)
+* Week 14: [April 15, 2025](#week-14)
+* Week 15: [April 22, 2025](#week-15)
+* Week 16: [April 29, 2025](#week-16)
 
 ***
 
@@ -35,28 +35,25 @@ In this document, under each week there are a list of assigned videos, texts, an
 
 ### Tutorial Videos  
 
-All the tutorial video demos for the course are in a Vimeo showcase, accessed here:   
-https://vimeo.com/showcase/10964162
-
-Password: idea2024
+All the tutorial video demos for the course will be uploaded to a YouTube account, and will be accessible via link that will be posted here.
  
 ***
 
 ## Unit 1: A Brief History of Digital Computing and the Arts
 
 ### Week 1
-#### January 9, 2024: Course Introduction
+#### January 14, 2025: Course Introduction
 
-This first week you should review the [course syllabus](SYLLABUS.md) and access your first lecture guide, reading, and assignments. I (Tiffany) will hold open office hours on Thursday, January 11, via Zoom. Zoom invite details will be on Blackboard.
+This first week you should review the [course syllabus](SYLLABUS.md) and access your first lecture guide, reading, and assignments.
 
-DUE **Thursday, January 11**:
+DUE **Thursday, January 16**:
 * Review [course syllabus](SYLLABUS.md)
 * DOWNLOAD and review [Week 1 guide](https://docs.google.com/presentation/d/1CWfBMEoSHCvFx0WdQB7-BuJkrtODb3ga_s1rdj0_5q4/edit?usp=sharing)
 * Read [Rachel Green, Web Work - A History of Net Art](week_01/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
 * Explore [Chapter 1: 1984-1998 of the Rhizome Anthology of Net Art](https://anthology.rhizome.org/) and read and look at the examples of early art on the world wide web.
 
 ***
-
+<!--
 ### Week 2
 #### Week of January 16, 2024: Computing in Design and Arts Practices
 
@@ -267,7 +264,7 @@ Projects (4):
 * PROJECT 4: Portfolio
 
 #### All assignments must be completed by the end of finals, Friday, MAY 3!
-
+--!>
 ***
 
 ![Dancing Baby](dancing_baby.gif)
