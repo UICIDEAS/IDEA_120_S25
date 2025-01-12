@@ -264,7 +264,7 @@ Projects (4):
 * PROJECT 4: Portfolio
 
 #### All assignments must be completed by the end of finals, Friday, MAY 3!
---!>
+
 ***
 
 ![Dancing Baby](dancing_baby.gif)
