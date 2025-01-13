@@ -46,9 +46,9 @@ All the tutorial video demos for the course will be uploaded to a YouTube accoun
 
 This first week you should review the [course syllabus](SYLLABUS.md) and access your first lecture guide, reading, and assignments.
 
-DUE **Thursday, January 16**:
+DUE **Thursday, January 16:
 * Review [course syllabus](SYLLABUS.md)
-* DOWNLOAD and review [Week 1 guide](https://docs.google.com/presentation/d/1wyDOzgW7I7ZrxKCRDaHMwXT-4oKIrq0kyd8LQMsHQWU/edit?usp=sharing)
+* Review and Download [Week 1 guide](https://docs.google.com/presentation/d/1wyDOzgW7I7ZrxKCRDaHMwXT-4oKIrq0kyd8LQMsHQWU/edit?usp=sharing)
 * Read [Rachel Green, Web Work - A History of Net Art](week_01/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
 
 DUE **Tuesday, January:  
