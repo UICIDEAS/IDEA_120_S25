@@ -97,34 +97,65 @@ After you turn in projects and receive feedback, you will have the chance to rev
 
 #### Grading Key:
 
-| Grade | Expectations 
-| --- | --- 
-| A | <ul><li>outstanding accomplishment in all assignments (technically and conceptually)</li>
-<li>excellent engagement with ideas and materials</li>
-<li>excellent engagement with ideas and materials</li>
-<li>excellent participation in classroom community (vocal, inquisitive, and thoughtful)</li>
-<li>full attendance, or responsibly acquires class content covered during infrequent absences</li>
-<li>exceptional progress in the artistic/project process</li></ul>
-| B | * above average accomplishment in all assignments with work submitted on time
-* strong engagement with ideas and materials
-* average conceptual or formal impetus
-* full attendance or responsibly acquires class content covered during infrequent absences. 
-* acceptable progress in the artistic/project process
-| C | * average accomplishment of all assignments with work submitted on time
-* some engagement with ideas and materials
-* some participation in the classroom community
-* ignores class content covered during absences unless prompted
-* student shows a lack of motivation and interest in thoroughly developing projects 
-| D | * the work does not meet the assignment criteria
-* some assignments are not completed or completed in a perfunctory manner
-* little engagement with ideas and materials
-* irregular or damaging participation in the classroom community
-* irregular attendance and minimal progress 
-| F | * many assignments not completed or completed in a perfunctory manner
-* little or no evidence of engagement with ideas and materials
-* lack of participation in the classroom community
-* failure to arrive prepared for class routinely
-* irregular attendance and little or no evidence of progress |
+<table>
+  <tbody>
+    <tr>
+      <th>Grade</th>
+      <th>Expectations</th>
+       </tr>
+    <tr>
+<td>A</td>
+      <td>
+        <ul>
+          <li>outstanding accomplishment in all assignments (technically and conceptually)</li>
+          <li>excellent engagement with ideas and materials</li>
+          <li>excellent engagement with ideas and materials</li>
+          <li>excellent participation in classroom community (vocal, inquisitive, and thoughtful)</li>
+          <li>full attendance, or responsibly acquires class content covered during infrequent absences</li>
+          <li>exceptional progress in the artistic/project process</li>
+        </ul>
+      </td>
+<td>B</td>
+      <td>
+        <ul>
+          <li>above average accomplishment in all assignments with work submitted on time</li>
+<li>strong engagement with ideas and materials</li>
+<li>average conceptual or formal impetus</li>
+<li>full attendance or responsibly acquires class content covered during infrequent absences</li>
+<li>acceptable progress in the artistic/project process</li>
+        </ul>
+      </td>
+<td>C</td>
+      <td>
+        <ul>
+          <li>average accomplishment of all assignments with work submitted on time</li>
+<li>some engagement with ideas and materials</li>
+<li>some participation in the classroom community</li>
+<li>ignores class content covered during absences unless prompted</li>
+<li>student shows a lack of motivation and interest in thoroughly developing projects</li> 
+        </ul>
+      </td>
+<td>D</td>
+      <td>
+        <ul>
+          <li>the work does not meet the assignment criteria</li>
+<li>some assignments are not completed or completed in a perfunctory manner</li>
+<li>little engagement with ideas and materials</li>
+<li>irregular or damaging participation in the classroom community</li>
+<li>irregular attendance and minimal progress</li>
+        </ul>
+      </td>
+      <td>F</td>
+<ul>
+  <li>many assignments not completed or completed in a perfunctory manner</li>
+<li>little or no evidence of engagement with ideas and materials</li>
+<li>lack of participation in the classroom community</li>
+<li>failure to arrive prepared for class routinely</li>
+<li>irregular attendance and little or no evidence of progress</li>
+</ul>
+    </tr>
+  </tbody>
+</table>
 
 *NOTE: Merely turning in all assignments is not a guarantee of a C or above.*  
 
