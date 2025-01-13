@@ -99,11 +99,12 @@ After you turn in projects and receive feedback, you will have the chance to rev
 
 | Grade | Expectations 
 | --- | --- 
-| A | * outstanding accomplishment in all assignments (technically and conceptually)
-* excellent engagement with ideas and materials
-* excellent participation in classroom community (vocal, inquisitive, and thoughtful)
-* full attendance, or responsibly acquires class content covered during infrequent absences
-* exceptional progress in the artistic/project process
+| A | <ul><li>outstanding accomplishment in all assignments (technically and conceptually)</li>
+<li>excellent engagement with ideas and materials</li>
+<li>excellent engagement with ideas and materials</li>
+<li>excellent participation in classroom community (vocal, inquisitive, and thoughtful)</li>
+<li>full attendance, or responsibly acquires class content covered during infrequent absences</li>
+<li>exceptional progress in the artistic/project process</li></ul>
 | B | * above average accomplishment in all assignments with work submitted on time
 * strong engagement with ideas and materials
 * average conceptual or formal impetus
