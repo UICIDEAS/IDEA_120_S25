@@ -102,9 +102,9 @@ After you turn in projects and receive feedback, you will have the chance to rev
     <tr>
       <th>Grade</th>
       <th>Expectations</th>
-       </tr>
+    </tr>
     <tr>
-<td>A</td>
+      <td>A</td>
       <td>
         <ul>
           <li>outstanding accomplishment in all assignments (technically and conceptually)</li>
@@ -115,44 +115,54 @@ After you turn in projects and receive feedback, you will have the chance to rev
           <li>exceptional progress in the artistic/project process</li>
         </ul>
       </td>
-<td>B</td>
+    </tr>
+    <tr>
+      <td>B</td>
       <td>
         <ul>
           <li>above average accomplishment in all assignments with work submitted on time</li>
-<li>strong engagement with ideas and materials</li>
-<li>average conceptual or formal impetus</li>
-<li>full attendance or responsibly acquires class content covered during infrequent absences</li>
-<li>acceptable progress in the artistic/project process</li>
+          <li>strong engagement with ideas and materials</li>
+          <li>average conceptual or formal impetus</li>
+          <li>full attendance or responsibly acquires class content covered during infrequent absences</li>
+          <li>acceptable progress in the artistic/project process</li>
         </ul>
       </td>
-<td>C</td>
+    </tr>
+    <tr>
+      <td>C</td>
       <td>
         <ul>
           <li>average accomplishment of all assignments with work submitted on time</li>
-<li>some engagement with ideas and materials</li>
-<li>some participation in the classroom community</li>
-<li>ignores class content covered during absences unless prompted</li>
-<li>student shows a lack of motivation and interest in thoroughly developing projects</li> 
+          <li>some engagement with ideas and materials</li>
+          <li>some participation in the classroom community</li>
+          <li>ignores class content covered during absences unless prompted</li>
+          <li>student shows a lack of motivation and interest in thoroughly developing projects</li> 
         </ul>
       </td>
-<td>D</td>
+    </tr>
+    <tr>
+      <td>D</td>
       <td>
         <ul>
           <li>the work does not meet the assignment criteria</li>
-<li>some assignments are not completed or completed in a perfunctory manner</li>
-<li>little engagement with ideas and materials</li>
-<li>irregular or damaging participation in the classroom community</li>
-<li>irregular attendance and minimal progress</li>
+          <li>some assignments are not completed or completed in a perfunctory manner</li>
+          <li>little engagement with ideas and materials</li>
+          <li>irregular or damaging participation in the classroom community</li>
+          <li>irregular attendance and minimal progress</li>
         </ul>
       </td>
+    </tr>
+    <tr>
       <td>F</td>
-<ul>
-  <li>many assignments not completed or completed in a perfunctory manner</li>
-<li>little or no evidence of engagement with ideas and materials</li>
-<li>lack of participation in the classroom community</li>
-<li>failure to arrive prepared for class routinely</li>
-<li>irregular attendance and little or no evidence of progress</li>
-</ul>
+      <td>
+        <ul>
+          <li>many assignments not completed or completed in a perfunctory manner</li>
+          <li>little or no evidence of engagement with ideas and materials</li>
+          <li>lack of participation in the classroom community</li>
+          <li>failure to arrive prepared for class routinely</li>
+          <li>irregular attendance and little or no evidence of progress</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
