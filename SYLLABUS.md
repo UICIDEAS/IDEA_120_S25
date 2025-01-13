@@ -1,10 +1,10 @@
 # IDEA 120: Digital Practices in Art and Design. 4 hours.  
 CRN: 41677  
 
-Instructor: Tiffany Funk. 
-Time: Tuesdays and Thursdays, 9:30-10:45a 
-Art & Exhibition Hall, rm 5202. 
-Contact/Office: tfunk4@uic.edu / Henry Hall 208C. 
+Instructor: Tiffany Funk.  
+Time: Tuesdays and Thursdays, 9:30-10:45a  
+Art & Exhibition Hall, rm 5202.  
+Contact/Office: tfunk4@uic.edu / Henry Hall 208C.  
 Office Hours: Thursdays, 12-2:00p (in person, HH 208C or schedule for Zoom)  
 
 ### Syllabus for Spring 2025
