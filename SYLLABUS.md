@@ -15,8 +15,6 @@ Office Hours: Thursdays, 12-2:00p (in person, HH 208C or schedule for Zoom)
 #### Contents
 * [Introduction and About the Syllabus](#introduction-and-about-the-syllabus)
 * [Course Description](#course-description)
-* [Course Outcomes](#course-outcomes)
-* [Assessment Methods](#assessment-methods)
 * [Course Content and Materials](#course-content-and-materials)
 * [Git, GitHub](#git-github)
 * [Assignments and Grading](#assignments-and-grading)
