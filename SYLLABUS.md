@@ -28,7 +28,7 @@ Office Hours: Thursdays, 12-2:00p (in person, HH 208C or schedule for Zoom)
 
 Welcome to IDEA 120: Digital Practices in Art and Design!
 
-This document is the current syllabus with the course description, expectations, policies, and resources. The contents of this document may be updated throughout the semester.
+This document is the current syllabus with the course description, expectations, policies, and resources. The contents of this document may be updated throughout the semester. [Download a .pdf copy of the syllabus](Funk_IDEA120_S25.pdf).
 
 ***
 
