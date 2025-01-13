@@ -1,4 +1,4 @@
-# IDEA 120: Digital Practices in Art and Design. 4 hours.  
+![IDEA 120 banner](120_banner.png)
 CRN: 41677  
 
 Instructor: Tiffany Funk.  
@@ -18,10 +18,9 @@ Office Hours: Thursdays, 12-2:00p (in person, HH 208C or schedule for Zoom)
 * [Course Content and Materials](#course-content-and-materials)
 * [Git, GitHub](#git-github)
 * [Assignments and Grading](#assignments-and-grading)
-* [Revision Policy](#revision-policy)
 * [Attendance Policy](#attendance-policy)
 * [Our Inclusive Learning Environment](#our-inclusive-learning-environment)
-* [UIC Student Resources](#UIC-student-recources)
+* [UIC Student Resources](#uic-student-recources)
 
 ***
 
