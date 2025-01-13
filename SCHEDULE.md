@@ -52,8 +52,8 @@ DUE **Thursday, January 16**:
 * Read [Rachel Green, Web Work - A History of Net Art](week_01/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
 
 DUE **Tuesday, January:  
-* Explore Rhizome: https://rhizome.org
-* Find an artwork, and write a summary about it (one paragraph, at least 5 sentences, Google Docs). Include one image. Create a folder with these files, titled with your first initial and last name (i.e., tfunk) in this Google Drive folder: https://drive.google.com/drive/folders/1oC06G2VLGqJvmNud34O7K58CY2lIXCsd?usp=sharing.
+* Explore Rhizome's Artbase: https://artbase.rhizome.org/wiki/Main_Page.
+* Find an artwork, and write a summary about it (one paragraph, at least 5 sentences, Google Docs). Include one image that you think best characterizes the project. Create a folder with these files, titled with your first initial and last name (i.e., tfunk) in this Google Drive folder: https://drive.google.com/drive/folders/1oC06G2VLGqJvmNud34O7K58CY2lIXCsd?usp=sharing.
 
 ***
 <!--
