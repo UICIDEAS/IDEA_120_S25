@@ -1,5 +1,5 @@
 # IDEA 120: Digital Practices in Art and Design
-### Schedule for Spring 2024
+### Schedule for Spring 2025
 
 ![Jodi, 'wwwwwwwww'](jodi_wwwwwwwww.png)
 <sup>*Screenshot from [Jodi (Collective) 'wwwwwwwww'](http://wwwwwwwww.jodi.org/)*</sup>
@@ -48,9 +48,12 @@ This first week you should review the [course syllabus](SYLLABUS.md) and access 
 
 DUE **Thursday, January 16**:
 * Review [course syllabus](SYLLABUS.md)
-* DOWNLOAD and review [Week 1 guide](https://docs.google.com/presentation/d/1CWfBMEoSHCvFx0WdQB7-BuJkrtODb3ga_s1rdj0_5q4/edit?usp=sharing)
+* DOWNLOAD and review [Week 1 guide](https://docs.google.com/presentation/d/1wyDOzgW7I7ZrxKCRDaHMwXT-4oKIrq0kyd8LQMsHQWU/edit?usp=sharing)
 * Read [Rachel Green, Web Work - A History of Net Art](week_01/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
-* Explore [Chapter 1: 1984-1998 of the Rhizome Anthology of Net Art](https://anthology.rhizome.org/) and read and look at the examples of early art on the world wide web.
+
+DUE **Tuesday, January:  
+* Explore Rhizome: https://rhizome.org
+* Find an artwork, and write a summary about it (one paragraph, at least 5 sentences, Google Docs). Include one image. Create a folder with these files, titled with your first initial and last name (i.e., tfunk) in this Google Drive folder: https://drive.google.com/drive/folders/1oC06G2VLGqJvmNud34O7K58CY2lIXCsd?usp=sharing.
 
 ***
 <!--
