@@ -101,22 +101,22 @@ After you turn in projects and receive feedback, you will have the chance to rev
 * excellent engagement with ideas and materials  
 * excellent participation in classroom community (vocal, inquisitive, and thoughtful)  
 * full attendance, or responsibly acquires class content covered during infrequent absences  
-* exceptional progress in the artistic/project process | 
+* exceptional progress in the artistic/project process 
 | B | * above average accomplishment in all assignments with work submitted on time  
 * strong engagement with ideas and materials. 
 * average conceptual or formal impetus. 
 * full attendance or responsibly acquires class content covered during infrequent absences. 
-* acceptable progress in the artistic/project process |
+* acceptable progress in the artistic/project process
 | C | * average accomplishment of all assignments with work submitted on time
 * some engagement with ideas and materials
 * some participation in the classroom community
 * ignores class content covered during absences unless prompted
-* student shows a lack of motivation and interest in thoroughly developing projects |
+* student shows a lack of motivation and interest in thoroughly developing projects 
 | D | * the work does not meet the assignment criteria
 * some assignments are not completed or completed in a perfunctory manner
 * little engagement with ideas and materials
 * irregular or damaging participation in the classroom community
-* irregular attendance and minimal progress |
+* irregular attendance and minimal progress 
 | F | * many assignments not completed or completed in a perfunctory manner
 * little or no evidence of engagement with ideas and materials
 * lack of participation in the classroom community
