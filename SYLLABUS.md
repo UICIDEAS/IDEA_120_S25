@@ -97,6 +97,8 @@ After you turn in projects and receive feedback, you will have the chance to rev
 
 #### Grading Key:
 
+| Grade | Expectations 
+| --- | --- 
 | A | * outstanding accomplishment in all assignments (technically and conceptually)  
 * excellent engagement with ideas and materials  
 * excellent participation in classroom community (vocal, inquisitive, and thoughtful)  
