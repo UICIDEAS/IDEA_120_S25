@@ -56,22 +56,22 @@ DUE **Tuesday, January 21:
 * Find an artwork, and write a summary about it (one paragraph, at least 5 sentences, Google Docs). Include one image that you think best characterizes the project. Create a folder with these files, titled with your first initial and last name (i.e., tfunk) in this Google Drive folder: https://drive.google.com/drive/folders/1oC06G2VLGqJvmNud34O7K58CY2lIXCsd?usp=sharing.
 
 ***
-<!--
-### Week 2
-#### Week of January 16, 2024: Computing in Design and Arts Practices
 
-DUE **Thursday, January 18**:
+### Week 2
+#### Week of January 21, 2025: Computing in Design and Arts Practices
+
+DUE **Tuesday, January 28**:
 * DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1eJpnWnj7eaZ4ezTom1rtXaewIAAxGGN9wRQdRqQTwRE/edit?usp=sharing)
 * Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](week_02/Janet-Murray-Hamlet-on-the-Holodeck-Chapter-3-WEEK-02.pdf)
 * Watch [Daniel Shiffman, Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
 * Create [a new GitHub Account](https://github.com/join)
-* Email your GitHub username to: [tfunk4@uic.edu](mailto:tfunk4@uic.edu)
+* Enter your GitHub username on the spreadsheet: [Github_usernames](https://docs.google.com/spreadsheets/d/1rqQ-OymrvQ4kFFAuBMH43cruqF-KOH-ZM4_tR1jM6Ps/edit?usp=sharing)
 * Create [a new public repository (Step 1 only)](https://guides.github.com/activities/hello-world/#repository) and name it 'idea-120-responses-YOUR_GITHUB_USERNAME'
 * Create a new [markdown](https://guides.github.com/features/mastering-markdown/#what) file [called 'week-02-murray-poem.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files) and write a five-line poem about the Murray reading. Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) link to any YouTube video that you feel is related to your poem and include at least 2 images. 
-* 'Commit' the new file to your repository with a description. We'll discuss your results in discussion on Tuesday, January 23rd.
+* 'Commit' the new file to your repository with a description. We'll discuss your results in discussion on Thursday, January 23rd.
 
 ***
-
+<!--
 ### Week 3
 #### Week of January 23, 2024: A Brief History of (Digital, and other) Media in Art
 
