@@ -76,7 +76,7 @@ DUE **Tuesday, January 28**:
 #### Week of January 23, 2024: A Brief History of (Digital, and other) Media in Art
 
 DUE **Thursday, January 25**:
-* DOWNLOAD and review [Week 3 guide](https://docs.google.com/presentation/d/1l9JQIzBcL0MjvTACfpybLckH2I715cSbrfZn5sE8Ps8/edit?usp=sharing)
+* DOWNLOAD and review [Week 3 guide](https://docs.google.com/presentation/d/1bev8fa5DDtlWWkj3cTEYM9IZ-EmsslcTpJ8IFpcYP3I/edit?usp=sharing)
 * [Watch Documentary: Lo and Behold, Werner Herzog (2016)](https://www.dailymotion.com/video/x8njx91)
 * Read [Chris Salter, Entangled](week_03/Chris-Salter-Entangled-WEEK-03.pdf)  
 * Read the description for [Project 1: GitHub Poetry (due week 5)](week_05/PROJECT_1.md). We will go over how to create a GitHub Page in class.
