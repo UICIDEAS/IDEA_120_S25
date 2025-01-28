@@ -71,20 +71,18 @@ DUE **Tuesday, January 28**:
 * 'Commit' the new file to your repository with a description. We'll discuss your results in discussion on Thursday, January 23rd.
 
 ***
-<!--
+
 ### Week 3
 #### Week of January 23, 2024: A Brief History of (Digital, and other) Media in Art
 
 DUE **Thursday, January 25**:
 * DOWNLOAD and review [Week 3 guide](https://docs.google.com/presentation/d/1l9JQIzBcL0MjvTACfpybLckH2I715cSbrfZn5sE8Ps8/edit?usp=sharing)
 * [Watch Documentary: Lo and Behold, Werner Herzog (2016)](https://www.dailymotion.com/video/x8njx91)
-* Read [Chris Salter, Entangled](week_03/Chris-Salter-Entangled-WEEK-03.pdf)
-* Respond to the reading by creating a new markdown file named 'week-03-salter.md' in your 'idea-120-responses' repository and write 2-3 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that could be considered a *Gesamtkunstwerk*. Is there an example in the Rhizome Anthology that could qualify?
- * Be sure to format your writing (including a header for your title) using [markdown syntax](https://guides.github.com/features/mastering-markdown/) and add a hidden message (or [ASCII-text-image](https://www.asciiart.eu/art-and-design/mona-lisa)) using [HTML comments](https://www.w3schools.com/html/html_comments.asp)
-* Read the description for [Project 1: GitHub Poetry (due week 5)](week_05/PROJECT_1.md) and follow the instructions there to create a GitHub pages site
+* Read [Chris Salter, Entangled](week_03/Chris-Salter-Entangled-WEEK-03.pdf)  
+* Read the description for [Project 1: GitHub Poetry (due week 5)](week_05/PROJECT_1.md). We will go over how to create a GitHub Page in class.
 
 ***
-
+<!--
 ### Week 4
 #### Week of January 30, 2022: Media Theory, Part 1
 
