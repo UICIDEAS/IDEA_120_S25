@@ -98,7 +98,7 @@ The password is: idea2025
 * Read [K. Silem Mohammad's Spooked and Considering How Spooky Deer Are](readings/K-Silem-Mohammad-Spooked-and-Considering-How-Spooky-Deer-Are.pdf).
 
 **For Tuesday, February 11:**
-* DOWNLOAD and review [Week 4 guide](https://docs.google.com/presentation/d/1tO_XRSenVBaUrwiz4GPx5GNjthePj0dTrfDvJ81npoQ/edit?usp=sharing)
+* DOWNLOAD and review [Week 4 guide](https://docs.google.com/presentation/d/1ltdhq41gzvNxh4g4MOrr4YDrYrJfWC6V26aD89anI5g/edit?usp=sharing)
 * Read [Marshall McLuhan, Understanding Media: Media Hot and Cold](/week_04_week_of_02-01-2021/readings/Marshall-McLuhan-Understanding-Media-Media-Hot-and-Cold-WEEK-04.pdf)
 * Read [Roland Barthes, "The Rhetoric of the Image," Image Music Text](week_04/Roland-Barthes-Image-Music-Text-The-Rhetoric-of-the-Image-WEEK-04.pdf)
 
