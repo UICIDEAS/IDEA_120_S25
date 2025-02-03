@@ -35,7 +35,11 @@ In this document, under each week there are a list of assigned videos, texts, an
 
 ### Tutorial Videos  
 
-All the tutorial video demos for the course will be uploaded to a YouTube account, and will be accessible via link that will be posted here.
+All the tutorial video demos for the course will be uploaded to VIMEO, and will be accessible via link:  
+
+https://vimeo.com/showcase/10964162?share=copy  
+
+The password is: idea2025
  
 ***
 
@@ -77,27 +81,33 @@ DUE **Tuesday, January 28**:
 
 DUE **Thursday, January 25**:
 * DOWNLOAD and review [Week 3 guide](https://docs.google.com/presentation/d/1bev8fa5DDtlWWkj3cTEYM9IZ-EmsslcTpJ8IFpcYP3I/edit?usp=sharing)
-* [Watch Documentary: Lo and Behold, Werner Herzog (2016)](https://www.dailymotion.com/video/x8njx91)
 * Read [Chris Salter, Entangled](week_03/Chris-Salter-Entangled-WEEK-03.pdf)  
 * Read the description for [Project 1: GitHub Poetry (due week 5)](week_05/PROJECT_1.md). We will go over how to create a GitHub Page in class.
 
 ***
-<!--
-### Week 4
-#### Week of January 30, 2022: Media Theory, Part 1
 
-DUE **Thursday, February 1**:
+### Week 4
+#### Week of February 4, 2025: Media Theory, Part 1
+
+TUTORIAL VIDEOS for MAKING A GITHUB PAGE: https://vimeo.com/showcase/10964162?share=copy  
+
+The password is: idea2025  
+
+**For Thursday, February 6:**
+* Read [Higgins & Kahn "First Generation Poetry Generators," Mainframe Experimentalism](week_03/Hannah-Higgins-Douglas-Kahn-Mainframe-Experimentalism-First-Generation-Poetry-Generators-WEEK-05.pdf)
+* Read [K. Silem Mohammad's Spooked and Considering How Spooky Deer Are](readings/K-Silem-Mohammad-Spooked-and-Considering-How-Spooky-Deer-Are.pdf).
+
+**For Tuesday, February 11:**
 * DOWNLOAD and review [Week 4 guide](https://docs.google.com/presentation/d/1tO_XRSenVBaUrwiz4GPx5GNjthePj0dTrfDvJ81npoQ/edit?usp=sharing)
-* [Watch Lecture: Hot Media, Cool Semiotics, Part 1](https://vimeo.com/456042103/5ec7e1ceeb)
 * Read [Marshall McLuhan, Understanding Media: Media Hot and Cold](/week_04_week_of_02-01-2021/readings/Marshall-McLuhan-Understanding-Media-Media-Hot-and-Cold-WEEK-04.pdf)
 * Read [Roland Barthes, "The Rhetoric of the Image," Image Music Text](week_04/Roland-Barthes-Image-Music-Text-The-Rhetoric-of-the-Image-WEEK-04.pdf)
-* Read [Higgins & Kahn "First Generation Poetry Generators," Mainframe Experimentalism](week_03/Hannah-Higgins-Douglas-Kahn-Mainframe-Experimentalism-First-Generation-Poetry-Generators-WEEK-05.pdf)
-* Create a new markdown file named 'week-04-response.md' and save it in your 'idea-120-responses' repository project folder. In this file, give an example of hot media and an example of cold media with your reasoning for each. Provide images.
 
- * Read W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis'](https://www.w3schools.com/html/default.asp)
- * Read W3C's [CSS Tutorial from 'CSS Introduction' to 'CSS Position'](https://www.w3schools.com/css/default.asp)
+ * Refer to W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis'](https://www.w3schools.com/html/default.asp)
+ * Refer to W3C's [CSS Tutorial from 'CSS Introduction' to 'CSS Position'](https://www.w3schools.com/css/default.asp)
 
 ***
+<!--
+* DOWNLOAD and review [Week 4 guide](https://docs.google.com/presentation/d/1tO_XRSenVBaUrwiz4GPx5GNjthePj0dTrfDvJ81npoQ/edit?usp=sharing)
 
 ### Week 5
 #### Week of February 6, 2022: Media Theory, Part 2
