@@ -1,7 +1,7 @@
 # Project 1: GitHub Poetry
 
 ## Project Description and Criteria
-** Due Thursday, February 15, 2024 **
+** Due Thursday, February 13, 2025 **
 
 Read [K. Silem Mohammad's Spooked and Considering How Spooky Deer Are](readings/K-Silem-Mohammad-Spooked-and-Considering-How-Spooky-Deer-Are.pdf).
 
@@ -28,7 +28,3 @@ https://phong7.github.io/Project-1-GitHubPoetry/
 https://laycolor101.github.io/Project-1-GitHub-Poetry/  
 
 "Cookies" repository example: https://github.com/fetalcircuit/lina_park_poem
-
-## If you need one-on-one help
-
-If you need one-on-one help with this project, [schedule a one on one appointment with me using Calendly](https://calendly.com/tfunk4/office-hours-meeting)
