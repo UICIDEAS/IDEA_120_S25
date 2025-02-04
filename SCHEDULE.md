@@ -95,7 +95,7 @@ The password is: idea2025
 
 **For Thursday, February 6:**
 * Read [Higgins & Kahn "First Generation Poetry Generators," Mainframe Experimentalism](week_03/Hannah-Higgins-Douglas-Kahn-Mainframe-Experimentalism-First-Generation-Poetry-Generators-WEEK-05.pdf)
-* Read [K. Silem Mohammad's Spooked and Considering How Spooky Deer Are](readings/K-Silem-Mohammad-Spooked-and-Considering-How-Spooky-Deer-Are.pdf).
+* Read [K. Silem Mohammad's Spooked and Considering How Spooky Deer Are](week_05/readings/K-Silem-Mohammad-Spooked-and-Considering-How-Spooky-Deer-Are.pdf).
 
 **For Tuesday, February 11:**
 * DOWNLOAD and review [Week 4 guide](https://docs.google.com/presentation/d/1ltdhq41gzvNxh4g4MOrr4YDrYrJfWC6V26aD89anI5g/edit?usp=sharing)
