@@ -102,18 +102,25 @@ The password is: idea2025
 * Read [Marshall McLuhan, Understanding Media: Media Hot and Cold](/week_04_week_of_02-01-2021/readings/Marshall-McLuhan-Understanding-Media-Media-Hot-and-Cold-WEEK-04.pdf)
 * Read [Roland Barthes, "The Rhetoric of the Image," Image Music Text](week_04/Roland-Barthes-Image-Music-Text-The-Rhetoric-of-the-Image-WEEK-04.pdf)
 
- * Refer to W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis'](https://www.w3schools.com/html/default.asp)
- * Refer to W3C's [CSS Tutorial from 'CSS Introduction' to 'CSS Position'](https://www.w3schools.com/css/default.asp)
-
 ***
-<!--
+
 * DOWNLOAD and review [Week 4 guide](https://docs.google.com/presentation/d/1tO_XRSenVBaUrwiz4GPx5GNjthePj0dTrfDvJ81npoQ/edit?usp=sharing)
 
 ### Week 5
-#### Week of February 6, 2022: Media Theory, Part 2
+#### Week of February 11, 2025: HTML & CSS demos
+
+ * Refer to W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis'](https://www.w3schools.com/html/default.asp)
+ * Refer to W3C's [CSS Tutorial from 'CSS Introduction' to 'CSS Position'](https://www.w3schools.com/css/default.asp)
+ * DEMO VIDEOS: https://vimeo.com/showcase/10964162
+Password: idea2025
+
+**[PROJECT 1: GITHUB POETRY](week_05/PROJECT_1.md) DUE Tuesday, February 18**
+
+### Week 6
+#### Week of February 18, 2025: Media Theory, Part 2
 
 DUE **Thursday, February 8**:
-* DOWNLOAD and review [Week 5 guide](https://docs.google.com/presentation/d/1cUy8bsfi3pMml0vYP1CMA6J7GaoEeghDlgM3k0Twzo4/edit?usp=sharing)
+<!-- * DOWNLOAD and review [Week 5 guide](https://docs.google.com/presentation/d/1cUy8bsfi3pMml0vYP1CMA6J7GaoEeghDlgM3k0Twzo4/edit?usp=sharing) -->
 * Watch [The Medium is the Message Minisode](https://www.youtube.com/watch?v=OseOb_wBsi4&ab_channel=FoldingIdeas)
 * Read [Ezra Klein, I Didn't Want it to be True, New York Times, 2022](week_05/readings/EzraKlein.pdf)
 * Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_05_week_of_02-08-2021/readings/Marshall-McLuhan-Understanding-The-Medium-is-the-Message-WEEK-05.pdf)
@@ -125,7 +132,7 @@ DUE **Thursday, February 15**
 DEMO VIDEO TO MAKE A GITHUB PAGES SITE: https://vimeo.com/showcase/10964162
 
 Password: idea2024
-
+<!--
 ***
 
 ## Unit 2: Digital Literacy and Online Content Creation
