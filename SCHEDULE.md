@@ -120,10 +120,10 @@ Password: idea2025
 #### Week of February 18, 2025: Media Theory, Part 2
 
 DUE **Thursday, February 20**:
-* DOWNLOAD and review [Week 6 guide](https://docs.google.com/presentation/d/1EmozESHm2r0_KY29I2AYpYklK5doBc36eKrglmj1iX4/edit?usp=sharing) 
+* DOWNLOAD and review [Week 6 guide](https://docs.google.com/presentation/d/1EmozESHm2r0_KY29I2AYpYklK5doBc36eKrglmj1iX4/edit?usp=sharing)
+* Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_05_week_of_02-08-2021/readings/Marshall-McLuhan-Understanding-The-Medium-is-the-Message-WEEK-05.pdf)
 * Watch [The Medium is the Message Minisode](https://www.youtube.com/watch?v=OseOb_wBsi4&ab_channel=FoldingIdeas)
 * Read [Ezra Klein, I Didn't Want it to be True, New York Times, 2022](week_05/readings/EzraKlein.pdf)
-* Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_05_week_of_02-08-2021/readings/Marshall-McLuhan-Understanding-The-Medium-is-the-Message-WEEK-05.pdf)
 
 Add your POETRY WEBSITE and the url of your GITHUB REPOSITORY to this spreadsheet: https://docs.google.com/spreadsheets/d/1V210uG7OCZRTCpZWI3qDE29z2KrX1BIKsrS5FUm6nSY/edit?usp=sharing
 
