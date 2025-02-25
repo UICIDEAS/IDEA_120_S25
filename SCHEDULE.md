@@ -127,35 +127,33 @@ DUE **Thursday, February 20**:
 
 Add your POETRY WEBSITE and the url of your GITHUB REPOSITORY to this spreadsheet: https://docs.google.com/spreadsheets/d/1V210uG7OCZRTCpZWI3qDE29z2KrX1BIKsrS5FUm6nSY/edit?usp=sharing
 
-<!--
+
 ***
 
 ## Unit 2: Digital Literacy and Online Content Creation
 
 ### Week 7
-#### Week of February 13, 2024: Digital Un-realities
+#### Week of February 24, 2025: Digital Un-realities
 
-DUE **Thursday, February 15**:
-* DOWNLOAD and review [Week 6 guide](https://docs.google.com/presentation/d/1HCValVmwd-A-Os9qooaZWzw6UR-sHtBnj5UlPVY42z8/edit?usp=sharing)
+DUE **Thursday, February 26**:
+* DOWNLOAD and review [Week 7 guide](https://docs.google.com/presentation/d/1-iF5X1sqAQ56PtoNN_q6knK0QsyKj46GbPbqlQ6ViFc/edit?usp=sharing)
 * Read [Janet Murray, Hamlet on the Holodeck: Chapter 9](/week_06_week_of_02-15-2021/readings/Janet-Murray-Hamlet-On-the-Holodeck-Chapter-9-WEEK-06.pdf)
-* Read W3C's [HTML Media Tutorial from 'HTML Media' to 'HTML YouTube'](https://www.w3schools.com/html/default.asp)
 * Watch [Why 'The Mandalorian' Uses Virtual Sets Over Green Screen'](https://www.youtube.com/watch?v=Ufp8weYYDE8)
-* In your responses repository, create a new markdown file named 'week-06-murray.md.' In this file discuss if you believe Murray's predictions about internet television and inhabiting virtual environments were successful. How does Murray's prediction compare to the hyper-realistic virtual environments the actors of 'The Mandalorian' inhabit while acting? Name and discuss the different layers of 'reality' both the actors and the viewers experience in the production.
+* Review [Project 2: Green Screen](/week_07/project-2-green-screen.md) expectations.
+* Write a brief proposal (a few sentences) on what you plan to do for [Project 2: Green Screen](/week_07/project-2-green-screen.md)
 
 ***
 
-### Week 7
-#### Week of February 20, 2022: Personal Digital Narratives
+### Week 8
+#### Week of March 4, 2025: Personal Digital Narratives
 
-* DOWNLOAD and review [Week 7 guide](https://docs.google.com/presentation/d/16_2nJQFGgX6_97hNVljRAzY95KAQmXA_RkgTcWW9vHQ/edit?usp=sharing)
-* Review [Project 2: Green Screen](/week_07/project-2-green-screen.md) expectations.
-* Create a new markdown file in your repository called 'project-02-proposal.md'. Write a brief proposal (a few sentences) on what you plan to do for [Project 2: Green Screen](/week_07/project-2-green-screen.md) and push it to your repository
+<!--* DOWNLOAD and review [Week 7 guide](https://docs.google.com/presentation/d/16_2nJQFGgX6_97hNVljRAzY95KAQmXA_RkgTcWW9vHQ/edit?usp=sharing)-->
 * Read [James Bridle, Something is Wrong On the Internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
 * **Optional** *Read [‘You Can Still Make Websites Nowadays’: A Talk with the Pioneering Internet Art Collective JODI](https://www.artnews.com/art-news/artists/can-still-make-websites-nowadays-talk-pioneering-internet-art-collective-jodi-10653/)*
 * **Optional** *Read [Perrigo, The World Wide Web Turns 30 Today. Here's How Its Inventor Thinks We Can Fix It](https://time.com/5549635/tim-berners-lee-interview-web/)*
 
 ***
-
+<!--
 ### Week 8
 #### Week of February 27, 2022: Midterm Check-in
 
