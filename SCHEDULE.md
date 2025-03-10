@@ -153,41 +153,19 @@ DUE **Thursday, February 26**:
 * **Optional** *Read [Perrigo, The World Wide Web Turns 30 Today. Here's How Its Inventor Thinks We Can Fix It](https://time.com/5549635/tim-berners-lee-interview-web/)*
 
 ***
-<!--
-### Week 8
-#### Week of February 27, 2022: Midterm Check-in
-
-Sign up for midterm Zoom meeting:  
-
-https://docs.google.com/spreadsheets/d/1FnNA-wC46UAfUS3viR3YBUulMrUqRRcWVAeM9qNYBu4/edit#gid=0
-
-MIDTERM CHECKLIST: You should have 3 repositories in your GitHub account:
-1. 120 Responses - you will have .md files for each week (excluding week 1) 
-2. Project 1 - this is your GitHub poetry project, so it will have index.html and style.css files, as well as images 
-3. Project 2 - this will have your Green Screen project proposal.
-
-Continue to work on [Project 2: Green Screen](/week_07/project-2-green-screen.md)!
-
-***
 
 ### Week 9
-#### Week of March 5, 2024: What is a model? Design and Algorithms
+#### Week of March 11, 2025: What is a model? Design and Algorithms
 
 * DOWNLOAD and review [Week 9 guide](https://docs.google.com/presentation/d/1XPAqjFM87uj8W-JjjX47dbCZl4LaseVO2nSQzlhQjwc/edit?usp=sharing)
 * Watch [Mona Chalabi, 3 Ways to Spot a Bad Statistic](https://www.ted.com/talks/mona_chalabi_3_ways_to_spot_a_bad_statistic)
 * Watch [Cathy O'Neil, The Era of Blind Faith in Big Data Must End](https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end?language=en)
 * Read [Cathy O'Neil, Weapons of Math Destruction: Introduction, Chapter 1 and 5](week_09/O-Neil.pdf)
-* Create a new markdown document in your 'idea-120-responses' repository called 'week-09-response.md' and discuss in about 2 paragraphs what methods outlined by O'Neil and Chalabi you believe you're subject to when using tools and consuming media on the internet. Would the internet be more useful and egalitarian without these methods (targeted ads, shaping interactions to content with specific design), or is it useful to direct users because your message could otherwise be lost among the sea of online content?
-* Push the file to your repository
-
-* __If you haven't already had a midterm meeting, sign up on the new sheet: https://docs.google.com/spreadsheets/d/1FnNA-wC46UAfUS3viR3YBUulMrUqRRcWVAeM9qNYBu4/edit?usp=sharing__
 
 * __Create a Google Drive folder for your PROJECT 2, and send me a link (tfunk4@uic.edu). Include the video and 3 screen captures.__
 
-* __Fill in your PROJECT 1 website data into this spreadsheet: https://docs.google.com/spreadsheets/d/1nEnACjkWVZykDsvpUVj23FQpxpVUvmYH6YOdsvBL0D8/edit?usp=sharing__
-
 ***
-
+<!--
 ## Unit 3: Non-linear Narratives in Digital Media
 
 ### Week 10
