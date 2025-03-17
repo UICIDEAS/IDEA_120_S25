@@ -1,6 +1,6 @@
 ## Twine Games
 
-Play a few of the text adventure games from the list provided below. Think about how these kinds of games relate to the Anna Anthropy reading.
+Play a few of the text adventure games from the list provided below. Think about how these kinds of games challenge the way in which we think about constructing narratives.
 
 * Crows, Crows, Crows, The Temple of No: https://crowscrowscrows.itch.io/the-temple-of-no
 * Tom Bissel and Matthew S. Burns, The Writer Will Do Something, https://matthewseiji.itch.io/twwds
