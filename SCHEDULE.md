@@ -165,17 +165,16 @@ DUE **Thursday, February 26**:
 * __Create a Google Drive folder for your PROJECT 2, and send me a link (tfunk4@uic.edu). Include the video and 3 screen captures.__
 
 ***
-<!--
+
 ## Unit 3: Non-linear Narratives in Digital Media
 
 ### Week 10
-#### Week of March 12, 2024: Non-linear Narratives in Digital Media
+#### Week of March 18, 2025: Non-linear Narratives in Digital Media
 
-* [Read the description for Project 3: Non-linear Narrative](week_10/project-3_non-linear-narrative.md)
 * Read [Merritt Kopas, Videogames for Humans, 'Introduction'](/week_10/Merritt-Kopas-Videogames-for-Humans-Intro-WEEK-10.pdf)
 * Play [some of the twine games listed here](/week_10_week_of_03-15-2021/twineGames.md)
+* [Read the description for Project 3: Non-linear Narrative](week_10/project-3_non-linear-narrative.md)
 * Create a new markdown document in your 'idea-120-responses' folder called 'project-03-proposal.md' and write a 1-2 paragraph proposal explaining the concept for your non-linear narrative
-* Push the file to your repository
 
 * Twine: https://twinery.org/
 * [One Big Ole Dump of Twine Tutorials and Help](week_10/twine_tutorial_dump.md)
@@ -186,7 +185,7 @@ DUE **Thursday, February 26**:
 #### Week of March 20, 2024: SPRING BREAK!
 
 ***
-
+<!--
 ### Week 12
 #### Week of March 27, 2024: Project Critiques and Discussion
 
