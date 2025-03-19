@@ -26,6 +26,11 @@ Using [Twine](https://twinery.org/), write a branching story with one or more of
 - Poem, not prose
 - Possibly avoid: life simulator, choose your own adventure tropes (walking around in a fictional world, fighting, dying etc.).
 
+**Tutorials and help!**
+
+Here's a huge list of tutorial sites and YouTube videos about making Twine games. It's a huge community full of cool people, and if your question isn't answered here, I'm not sure there's an answer ¯\_(ツ)_/¯  
+https://github.com/UICIDEAS/IDEA_120_S25/blob/Spring2025/week_10/twine_tutorial_dump.md  
+
 **Requirements**
 
 - Use the Twine non-linear story platform to create a game.
