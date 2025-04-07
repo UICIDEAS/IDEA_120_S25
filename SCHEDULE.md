@@ -182,51 +182,49 @@ DUE **Thursday, February 26**:
 ***
 
 ### Week 11
-#### Week of March 20, 2024: SPRING BREAK!
+#### Week of March 25, 2025: SPRING BREAK!
 
 ***
-<!--
+
 ### Week 12
-#### Week of March 27, 2024: Project Critiques and Discussion
+#### Week of April 1, 2025: Game Design for Artists
+
+* Reminder to play [some of the twine games listed here](/week_10_week_of_03-15-2021/twineGames.md)
+* [Project 3: Non-linear Narrative](week_10/project-3_non-linear-narrative.md)
+* Twine: https://twinery.org/
+* [One Big Ole Dump of Twine Tutorials and Help](week_10/twine_tutorial_dump.md)
 
 ***
 
 ### Week 13
-#### Week of April 2, 2024: Game Design for Artists, Part 1
+#### Week of April 8, 2025: Game Design for Artists and Personal Portfolios
 
-* Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 1 and 2](week_12/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-1-2-WEEK-12.pdf)
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-12-anthropy.md' and discuss in about 2 paragraphs how accessibility in gaming and coding can help improve video games. Think about what we can gain from a larger number of voices participating in creating games and what other kinds of media (e.g. theater, physical games) could also benefit from using 'game' creation tools.
-* [Create a GitHub website for your Twine game.](week_10/project-3_non-linear-narrative.md)
+* [Create a GitHub website for your Twine game.](week_10/project-3_non-linear-narrative.md) We will go over how to do this in class!
+* Read the description for [Project 4: Personal Portfolio](week_13/project-4_personal-portfolio.md)
+* Create a new markdown document in your 'idea-120-responses' folder called 'project-04-proposal.md' and explain in about 1 paragraph what content you'll include in your portfolio and how it will be organized.
+* Draw (or layout in Illustrator) the basic layout that you will use for your Portfolio and [add this drawing to your repository](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository) as a photo or exported from Illustrator
 
-DUE **Thursday, April 13**:
+DUE **Tuesday, April 8**:
 * Non-linear Narrative Project DUE
 
 ***
 
 ### Week 14
-#### Week of April 9, 2024: Game Design for Artists, Part 2
+#### Week of April 15, 2025: Personal Portfolios
 
-<sup>*Possible playthrough of [Olia Lialina, My Boyfriend Came Back from the War](http://www.teleportacia.org/war/wara.htm)*</sup>
-
-DUE **Thursday, April 6**:
-* Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 3 and 4](week_13/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-3-4-WEEK-12.pdf)
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-13-anthopy.md' and respond with around 3 questions these readings brought up for you. Pick one and discuss it in 3 paragraphs
-* Push the file to your repository
-* Read the description for [Project 4: Personal Portfolio](week_13/project-4_personal-portfolio.md)
-* Create a new markdown document in your 'idea-120-responses' folder called 'project-04-proposal.md' and explain in about 1 paragraph what content you'll include in your portfolio and how it will be organized.
-* Draw (or layout in Illustrator) the basic layout that you will use for your Portfolio and [add this drawing to your repository](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository) as a photo or exported from Illustrator
+Continue working on your Final Portfolio Project
 
 ***
 
 ### Week 15
-#### Week of April 16, 2024
+#### Week of April 16, 2025
 
 Continue working on your Final Portfolio Project
 
 ***
 
 ### Week 16
-#### Week of April 23, 2024
+#### Week of April 25, 2025
 
 Continue working on your Final Portfolio Project
 
@@ -234,15 +232,10 @@ Continue working on your Final Portfolio Project
 
 (See course schedule for readings response prompts: https://github.com/UICIDEAS/IDEA_120/blob/Spring2024/SCHEDULE.md)
 
-Reading responses (7):
+Reading responses (2):
 
 - Week 2 (Murray)
-- Week 3 (Salter)
-- Week 4 (McLuhan / Barthes)
-- Week 5 (McLuhan)
-- Week 6 (Murray)
-- Week 9 (O'Neil)
-- Week 13 (Anthropy)
+- Week 3 (Rhizome)
 
 Projects (4):
 
@@ -251,7 +244,7 @@ Projects (4):
 * PROJECT 3: Non-linear Narrative (Twine Game)
 * PROJECT 4: Portfolio
 
-#### All assignments must be completed by the end of finals, Friday, MAY 3!
+#### All assignments must be completed by the end of finals, Friday, MAY 9!
 
 ***
 
