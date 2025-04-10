@@ -207,7 +207,7 @@ DUE **Thursday, February 26**:
 DUE **Tuesday, April 8**:
 * Non-linear Narrative Project DUE
 
-** Add your project to this spreadsheet: https://docs.google.com/spreadsheets/d/1EZ0wVjxgrY2vRHaIcOiWOwl1pDvgqJ6OiMfoX0Hwyuk/edit?usp=sharing **
+**Add your project to this spreadsheet: https://docs.google.com/spreadsheets/d/1EZ0wVjxgrY2vRHaIcOiWOwl1pDvgqJ6OiMfoX0Hwyuk/edit?usp=sharing**
 
 ***
 
