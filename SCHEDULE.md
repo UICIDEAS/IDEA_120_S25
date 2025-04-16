@@ -216,11 +216,12 @@ DUE **Tuesday, April 8**:
 
 Continue working on your Final Portfolio Project
 
-<ul>Project 4 tips:
-<li>First, here is a link to the SAMPLE PORTFOLIO I have on github: https://github.com/fetalcircuit/sample_portfolio/tree/master  
-You can use any of the files in the repository as templates for your own website.</li>
-<li>The HTML and CSS tutorials on W3Schools are also very helpful: https://www.w3schools.com/html/default.asp  
-Some of the more helpful sections are about div, tables, the use of margins and padding.</li></ul>
+Project 4 tips:
+
+First, here is a link to the SAMPLE PORTFOLIO I have on github: https://github.com/fetalcircuit/sample_portfolio/tree/master  
+- You can use any of the files in the repository as templates for your own website.
+The HTML and CSS tutorials on W3Schools are also very helpful: https://www.w3schools.com/html/default.asp  
+- Some of the more helpful sections are about div, tables, the use of margins and padding.
 
 ***
 
