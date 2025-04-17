@@ -219,8 +219,12 @@ Continue working on your Final Portfolio Project
 Project 4 resources:
 
 1. Instructions for [Project 4: Personal Portfolio](week_13/project-4_personal-portfolio.md).
+
 2. Here is a link to the SAMPLE PORTFOLIO I have on github: https://github.com/fetalcircuit/sample_portfolio/tree/master. You can use any of the files in the repository as templates for your own website.
+
 3. The HTML and CSS tutorials on W3Schools are also very helpful: https://www.w3schools.com/html/default.asp. Some of the more helpful sections are about div, tables, the use of margins and padding.
+
+4. A good template/tutorial for creating a menu/navigation bar: https://www.w3schools.com/howto/howto_js_topnav.asp
 
 ***
 
