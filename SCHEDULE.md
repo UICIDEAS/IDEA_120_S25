@@ -241,20 +241,17 @@ Continue working on your Final Portfolio Project
 Continue working on your Final Portfolio Project
 
 #### Checklist of assignments:
+Reading responses (described in the GitHub class schedule (https://github.com/UICIDEAS/IDEA_120_S25/blob/Spring2025/SCHEDULE.md):
 
-(See course schedule for readings response prompts: https://github.com/UICIDEAS/IDEA_120/blob/Spring2024/SCHEDULE.md)
-
-Reading responses (2):
-
-- Week 2 (Murray)
-- Week 3 (Rhizome)
+    - Week 1: Rhizome art (make sure you uploaded a folder to: https://drive.google.com/drive/folders/1oC06G2VLGqJvmNud34O7K58CY2lIXCsd?usp=sharing)
+    - Week 2: Murray response poem (repository)
 
 Projects (4):
 
-* PROJECT 1: Github Poetry Website
-* PROJECT 2: Green Screen
-* PROJECT 3: Non-linear Narrative (Twine Game)
-* PROJECT 4: Portfolio
+    - PROJECT 1: Github Poetry Website (make sure your url is listed here: https://docs.google.com/spreadsheets/d/1V210uG7OCZRTCpZWI3qDE29z2KrX1BIKsrS5FUm6nSY/edit?gid=0#gid=0)
+    - PROJECT 2: Green Screen (make sure your folder is here: https://drive.google.com/drive/folders/1YEUQq0K2OMkkNmhnbW-gMtUYtAincmLt?usp=drive_link)
+    - PROJECT 3: Non-linear Narrative (make sure your url is listed here: https://docs.google.com/spreadsheets/d/1EZ0wVjxgrY2vRHaIcOiWOwl1pDvgqJ6OiMfoX0Hwyuk/edit?usp=sharing)
+    - PROJECT 4: Portfolio Website (make sure your url is included here: https://docs.google.com/spreadsheets/d/1f7BDMoKZnOSHy2KDKVFLklQT3Fk6C1OsXex0b5qD3K0/edit?usp=sharing)
 
 #### All assignments must be completed by the end of finals, Friday, MAY 9!
 
