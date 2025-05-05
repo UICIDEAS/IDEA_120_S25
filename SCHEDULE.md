@@ -248,10 +248,10 @@ Week 2: Murray response poem (repository)
 
 Projects (4):
 
-PROJECT 1: Github Poetry Website (make sure your url is listed here: https://docs.google.com/spreadsheets/d/1V210uG7OCZRTCpZWI3qDE29z2KrX1BIKsrS5FUm6nSY/edit?gid=0#gid=0). 
-PROJECT 2: Green Screen (make sure your folder is here: https://drive.google.com/drive/folders/1YEUQq0K2OMkkNmhnbW-gMtUYtAincmLt?usp=drive_link). 
-PROJECT 3: Non-linear Narrative (make sure your url is listed here: https://docs.google.com/spreadsheets/d/1EZ0wVjxgrY2vRHaIcOiWOwl1pDvgqJ6OiMfoX0Hwyuk/edit?usp=sharing)  
-PROJECT 4: Portfolio Website (make sure your url is included here: https://docs.google.com/spreadsheets/d/1f7BDMoKZnOSHy2KDKVFLklQT3Fk6C1OsXex0b5qD3K0/edit?usp=sharing). 
+* PROJECT 1: Github Poetry Website (make sure your url is listed here: https://docs.google.com/spreadsheets/d/1V210uG7OCZRTCpZWI3qDE29z2KrX1BIKsrS5FUm6nSY/edit?gid=0#gid=0). 
+* PROJECT 2: Green Screen (make sure your folder is here: https://drive.google.com/drive/folders/1YEUQq0K2OMkkNmhnbW-gMtUYtAincmLt?usp=drive_link). 
+* PROJECT 3: Non-linear Narrative (make sure your url is listed here: https://docs.google.com/spreadsheets/d/1EZ0wVjxgrY2vRHaIcOiWOwl1pDvgqJ6OiMfoX0Hwyuk/edit?usp=sharing)  
+* PROJECT 4: Portfolio Website (make sure your url is included here: https://docs.google.com/spreadsheets/d/1f7BDMoKZnOSHy2KDKVFLklQT3Fk6C1OsXex0b5qD3K0/edit?usp=sharing). 
 
 #### All assignments must be completed by the end of finals, Friday, MAY 9!
 
