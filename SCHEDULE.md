@@ -1,27 +1,27 @@
 # IDEA 120: Digital Practices in Art and Design
-### Schedule for Spring 2025
+### Schedule for Spring 2026
 
 ![Jodi, 'wwwwwwwww'](jodi_wwwwwwwww.png)
 <sup>*Screenshot from [Jodi (Collective) 'wwwwwwwww'](http://wwwwwwwww.jodi.org/)*</sup>
 
 #### Contents
 * [Introduction and About the Schedule](#introduction-and-about-the-schedule)
-* Week 1: [January 14, 2025](#week-1)
-* Week 2: [January 21, 2025](#week-2)
-* Week 3: [January 28, 2025](#week-3)
-* Week 4: [February 4, 2025](#week-4)
-* Week 5: [February 11, 2025](#week-5)
-* Week 6: [February 18, 2025](#week-6)
-* Week 7: [February 25, 2025](#week-7)
-* Week 8: [March 4, 2025](#week-8)
-* Week 9: [March 11, 2025](#week-9)
-* Week 10: [March 18, 2025](#week-10)
-* Week 11: [SPRING BREAK - no class](#week-11)
-* Week 12: [April 1, 2025](#week-12)
-* Week 13: [April 8, 2025](#week-13)
-* Week 14: [April 15, 2025](#week-14)
-* Week 15: [April 22, 2025](#week-15)
-* Week 16: [April 29, 2025](#week-16)
+* Week 1: [January 13, 2026](#week-1)
+* Week 2: [January 20, 2026](#week-2)
+* Week 3: [January 27, 2026](#week-3)
+* Week 4: [February 3, 2026](#week-4)
+* Week 5: [February 10, 2026](#week-5)
+* Week 6: [February 17, 2026](#week-6)
+* Week 7: [February 24, 2026](#week-7)
+* Week 8: [March 3, 2026](#week-8)
+* Week 9: [March 10, 2026](#week-9)
+* Week 10: [March 17, 2026](#week-10)
+* Week 11: [SPRING BREAK (23-27) - no class](#week-11)
+* Week 12: [March 31, 2026](#week-12)
+* Week 13: [April 7, 2026](#week-13)
+* Week 14: [April 14, 2026](#week-14)
+* Week 15: [April 21, 2026](#week-15)
+* Week 16: [April 28, 2026](#week-16)
 
 ***
 
@@ -39,32 +39,32 @@ All the tutorial video demos for the course will be uploaded to VIMEO, and will 
 
 https://vimeo.com/showcase/10964162?share=copy  
 
-The password is: idea2025
+The password is: idea2026
  
 ***
 
 ## Unit 1: A Brief History of Digital Computing and the Arts
 
 ### Week 1
-#### January 14, 2025: Course Introduction
+#### January 13, 2026: Course Introduction
 
 This first week you should review the [course syllabus](SYLLABUS.md) and access your first lecture guide, reading, and assignments.
 
-DUE **Thursday, January 16:
+DUE **Thursday, January 15:
 * Review [course syllabus](SYLLABUS.md)
 * Review and Download [Week 1 guide](https://docs.google.com/presentation/d/1wyDOzgW7I7ZrxKCRDaHMwXT-4oKIrq0kyd8LQMsHQWU/edit?usp=sharing)
 * Read [Rachel Green, Web Work - A History of Net Art](week_01/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
 
-DUE **Tuesday, January 21:  
+DUE **Tuesday, January 20:  
 * Explore Rhizome's Artbase: https://artbase.rhizome.org/wiki/Main_Page.
 * Find an artwork, and write a summary about it (one paragraph, at least 5 sentences, Google Docs). Include one image that you think best characterizes the project. Create a folder with these files, titled with your first initial and last name (i.e., tfunk) in this Google Drive folder: https://drive.google.com/drive/folders/1oC06G2VLGqJvmNud34O7K58CY2lIXCsd?usp=sharing.
 
 ***
 
 ### Week 2
-#### Week of January 21, 2025: Computing in Design and Arts Practices
+#### Week of January 20, 2026: Computing in Design and Arts Practices
 
-DUE **Tuesday, January 28**:
+DUE **Tuesday, January 27**:
 * DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1eJpnWnj7eaZ4ezTom1rtXaewIAAxGGN9wRQdRqQTwRE/edit?usp=sharing)
 * Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](week_02/Janet-Murray-Hamlet-on-the-Holodeck-Chapter-3-WEEK-02.pdf)
 * Watch [Daniel Shiffman, Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
@@ -77,9 +77,9 @@ DUE **Tuesday, January 28**:
 ***
 
 ### Week 3
-#### Week of January 23, 2024: A Brief History of (Digital, and other) Media in Art
+#### Week of January 27, 2026: A Brief History of (Digital, and other) Media in Art
 
-DUE **Thursday, January 25**:
+DUE **Thursday, January 29**:
 * DOWNLOAD and review [Week 3 guide](https://docs.google.com/presentation/d/1bev8fa5DDtlWWkj3cTEYM9IZ-EmsslcTpJ8IFpcYP3I/edit?usp=sharing)
 * Read [Chris Salter, Entangled](week_03/Chris-Salter-Entangled-WEEK-03.pdf)  
 * Read the description for [Project 1: GitHub Poetry (due week 5)](week_05/PROJECT_1.md). We will go over how to create a GitHub Page in class.
@@ -87,17 +87,17 @@ DUE **Thursday, January 25**:
 ***
 
 ### Week 4
-#### Week of February 4, 2025: Media Theory, Part 1
+#### Week of February 3, 2026: Media Theory, Part 1
 
 TUTORIAL VIDEOS for MAKING A GITHUB PAGE: https://vimeo.com/showcase/10964162?share=copy  
 
-The password is: idea2025  
+The password is: idea2026  
 
-**For Thursday, February 6:**
+**For Thursday, February 5:**
 * Read [Higgins & Kahn "First Generation Poetry Generators," Mainframe Experimentalism](week_03/Hannah-Higgins-Douglas-Kahn-Mainframe-Experimentalism-First-Generation-Poetry-Generators-WEEK-05.pdf)
 * Read [K. Silem Mohammad's Spooked and Considering How Spooky Deer Are](week_05/readings/K-Silem-Mohammad-Spooked-and-Considering-How-Spooky-Deer-Are.pdf).
 
-**For Tuesday, February 11:**
+**For Tuesday, February 10:**
 * DOWNLOAD and review [Week 4 guide](https://docs.google.com/presentation/d/1ltdhq41gzvNxh4g4MOrr4YDrYrJfWC6V26aD89anI5g/edit?usp=sharing)
 * Read [Marshall McLuhan, Understanding Media: Media Hot and Cold](/week_04_week_of_02-01-2021/readings/Marshall-McLuhan-Understanding-Media-Media-Hot-and-Cold-WEEK-04.pdf)
 * Read [Roland Barthes, "The Rhetoric of the Image," Image Music Text](week_04/Roland-Barthes-Image-Music-Text-The-Rhetoric-of-the-Image-WEEK-04.pdf)
@@ -105,21 +105,21 @@ The password is: idea2025
 ***
 
 ### Week 5
-#### Week of February 11, 2025: HTML & CSS demos
+#### Week of February 10, 2026: HTML & CSS demos
 
  * Refer to W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis'](https://www.w3schools.com/html/default.asp)
  * Refer to W3C's [CSS Tutorial from 'CSS Introduction' to 'CSS Position'](https://www.w3schools.com/css/default.asp)
  * DEMO VIDEOS: https://vimeo.com/showcase/10964162
-Password: idea2025
+Password: idea2026
 
 **[PROJECT 1: GITHUB POETRY](week_05/PROJECT_1.md) DUE Tuesday, February 18**
 
 ***
 
 ### Week 6
-#### Week of February 18, 2025: Media Theory, Part 2
+#### Week of February 17, 2026: Media Theory, Part 2
 
-DUE **Thursday, February 20**:
+DUE **Thursday, February 19**:
 * DOWNLOAD and review [Week 6 guide](https://docs.google.com/presentation/d/1EmozESHm2r0_KY29I2AYpYklK5doBc36eKrglmj1iX4/edit?usp=sharing)
 * Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_05_week_of_02-08-2021/readings/Marshall-McLuhan-Understanding-The-Medium-is-the-Message-WEEK-05.pdf)
 * Watch [The Medium is the Message Minisode](https://www.youtube.com/watch?v=OseOb_wBsi4&ab_channel=FoldingIdeas)
@@ -133,7 +133,7 @@ Add your POETRY WEBSITE and the url of your GITHUB REPOSITORY to this spreadshee
 ## Unit 2: Digital Literacy and Online Content Creation
 
 ### Week 7
-#### Week of February 24, 2025: Digital Un-realities
+#### Week of February 24, 2026: Digital Un-realities
 
 DUE **Thursday, February 26**:
 * DOWNLOAD and review [Week 7 guide](https://docs.google.com/presentation/d/1-iF5X1sqAQ56PtoNN_q6knK0QsyKj46GbPbqlQ6ViFc/edit?usp=sharing)
@@ -145,7 +145,7 @@ DUE **Thursday, February 26**:
 ***
 
 ### Week 8
-#### Week of March 4, 2025: Personal Digital Narratives
+#### Week of March 3, 2026: Personal Digital Narratives
 
 <!--* DOWNLOAD and review [Week 7 guide](https://docs.google.com/presentation/d/16_2nJQFGgX6_97hNVljRAzY95KAQmXA_RkgTcWW9vHQ/edit?usp=sharing)-->
 * Read [James Bridle, Something is Wrong On the Internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
@@ -155,7 +155,7 @@ DUE **Thursday, February 26**:
 ***
 
 ### Week 9
-#### Week of March 11, 2025: What is a model? Design and Algorithms
+#### Week of March 10, 2026: What is a model? Design and Algorithms
 
 * DOWNLOAD and review [Week 9 guide](https://docs.google.com/presentation/d/1XPAqjFM87uj8W-JjjX47dbCZl4LaseVO2nSQzlhQjwc/edit?usp=sharing)
 * Watch [Mona Chalabi, 3 Ways to Spot a Bad Statistic](https://www.ted.com/talks/mona_chalabi_3_ways_to_spot_a_bad_statistic)
@@ -169,7 +169,7 @@ DUE **Thursday, February 26**:
 ## Unit 3: Non-linear Narratives in Digital Media
 
 ### Week 10
-#### Week of March 18, 2025: Non-linear Narratives in Digital Media
+#### Week of March 17, 2026: Non-linear Narratives in Digital Media
 
 * Read [Merritt Kopas, Videogames for Humans, 'Introduction'](/week_10/Merritt-Kopas-Videogames-for-Humans-Intro-WEEK-10.pdf)
 * Play [some of the twine games listed here](/week_10_week_of_03-15-2021/twineGames.md)
@@ -182,12 +182,12 @@ DUE **Thursday, February 26**:
 ***
 
 ### Week 11
-#### Week of March 25, 2025: SPRING BREAK!
+#### Week of March 24, 2026: SPRING BREAK!
 
 ***
 
 ### Week 12
-#### Week of April 1, 2025: Game Design for Artists
+#### Week of March 31, 2026: Game Design for Artists
 
 * Reminder to play [some of the twine games listed here](/week_10_week_of_03-15-2021/twineGames.md)
 * [Project 3: Non-linear Narrative](week_10/project-3_non-linear-narrative.md)
@@ -197,14 +197,14 @@ DUE **Thursday, February 26**:
 ***
 
 ### Week 13
-#### Week of April 8, 2025: Game Design for Artists and Personal Portfolios
+#### Week of April 7, 2026: Game Design for Artists and Personal Portfolios
 
 * [Create a GitHub website for your Twine game.](week_10/project-3_non-linear-narrative.md) We will go over how to do this in class!
 * Read the description for [Project 4: Personal Portfolio](week_13/project-4_personal-portfolio.md)
 * Create a new markdown document in your 'idea-120-responses' folder called 'project-04-proposal.md' and explain in about 1 paragraph what content you'll include in your portfolio and how it will be organized.
 * Draw (or layout in Illustrator) the basic layout that you will use for your Portfolio and [add this drawing to your repository](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository) as a photo or exported from Illustrator
 
-DUE **Tuesday, April 8**:
+DUE **Tuesday, April 7**:
 * Non-linear Narrative Project DUE
 
 **Add your project to this spreadsheet: https://docs.google.com/spreadsheets/d/1EZ0wVjxgrY2vRHaIcOiWOwl1pDvgqJ6OiMfoX0Hwyuk/edit?usp=sharing**
@@ -212,7 +212,7 @@ DUE **Tuesday, April 8**:
 ***
 
 ### Week 14
-#### Week of April 15, 2025: Personal Portfolios
+#### Week of April 14, 2026: Personal Portfolios
 
 Continue working on your Final Portfolio Project
 
@@ -229,19 +229,19 @@ Project 4 resources:
 ***
 
 ### Week 15
-#### Week of April 16, 2025
+#### Week of April 15, 2026
 
 Continue working on your Final Portfolio Project
 
 ***
 
 ### Week 16
-#### Week of April 25, 2025
+#### Week of April 24, 2026
 
 Continue working on your Final Portfolio Project
 
 #### Checklist of assignments:
-Reading responses (described in the GitHub class schedule (https://github.com/UICIDEAS/IDEA_120_S25/blob/Spring2025/SCHEDULE.md):
+Reading responses (described in the GitHub class schedule (https://github.com/UICIDEAS/IDEA_120_S25/blob/Spring2026/SCHEDULE.md):
 
 Week 1: Rhizome art (make sure you uploaded a folder to: https://drive.google.com/drive/folders/1oC06G2VLGqJvmNud34O7K58CY2lIXCsd?usp=sharing). 
 Week 2: Murray response poem (repository)  
@@ -253,7 +253,7 @@ Projects (4):
 * PROJECT 3: Non-linear Narrative (make sure your url is listed here: https://docs.google.com/spreadsheets/d/1EZ0wVjxgrY2vRHaIcOiWOwl1pDvgqJ6OiMfoX0Hwyuk/edit?usp=sharing)  
 * PROJECT 4: Portfolio Website (make sure your url is included here: https://docs.google.com/spreadsheets/d/1f7BDMoKZnOSHy2KDKVFLklQT3Fk6C1OsXex0b5qD3K0/edit?usp=sharing). 
 
-#### All assignments must be completed by the end of finals, Friday, MAY 9!
+#### All assignments must be completed by the end of finals, Friday, MAY 8!
 
 ***
 
